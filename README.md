@@ -5,7 +5,7 @@ Zip command:
 zip -r service_layer.zip .
 
 Sample Input Payload:
-{
-  "httpMethod": "POST",
-  "body": "{\"username\":\"admin\",\"password\":\"admin\"}"
-}
+{ 
+  "httpMethod": "POST", 
+  "body": "{\"username\":\"admin\",\"password\":\"admin\"}" 
+} 
